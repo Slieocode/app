@@ -95,7 +95,6 @@ header {
   height: 60vh;
   justify-content: center; }
   .textMedia h1, .textMedia h2, .download h1, .download h2 {
-    font-weight: 200;
     margin: 3px; }
   .textMedia h1, .download h1 {
     font-size: 2.9em; }
@@ -140,7 +139,7 @@ header {
         font-weight: bold; }
   .textMedia .cta-d, .download .cta-d {
     display: flex;
-    width: 450px; }
+    width: 470px; }
 
 .benefits h1 {
   text-align: center;
@@ -500,7 +499,7 @@ header {
   margin: 50px auto; }
   .download .cta-d {
     display: flex;
-    width: 450px;
+    width: 470px;
     margin: 50px auto; }
 
 .screenshots .container {
@@ -974,5 +973,7 @@ footer {
     width: 292px !important; }
   .information .textMedia img {
     width: 68% !important; } }
+h1, h2 {
+  font-weight: bold; }
 
 /*# sourceMappingURL=main.css.map */
